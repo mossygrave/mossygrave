@@ -13,7 +13,7 @@ Skills
 - Organization
 
 My Links
-- [Insert LinkedIn here]
+- https://www.linkedin.com/in/morgan-mckay-77a31422b/
 - My games https://mosgrave.itch.io/ 
 
 <!---
