@@ -1,13 +1,17 @@
 - 👋 Hi, I’m @mossygrave (Morgan)
 - I am a student at Brigham Young University - Idaho and I am studying Computer Science
 - 👀 I’m interested in game development, creative projects, learning new skills
-- 🌱 I’m currently learning C#, Godot/GDScript, and Unity
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I have a cat and she is the best 
+- 🌱 I’m currently learning JavaScript, Discord API, and Powershell
+ 
 
 Skills 
 - Python
+- GDScript
+- C#
+- HTML
+- CSS
 - VS Code
+- Godot
 - Problem solving
 - Communication
 - Organization
